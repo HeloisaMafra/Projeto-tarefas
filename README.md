@@ -1,19 +1,20 @@
-📝 Gerenciador de Tarefas
-Uma interface simples, elegante e funcional para organizar sua rotina, desenvolvida em Python. 
-Este projeto utiliza a biblioteca FreeSimpleGUI para entregar uma experiência de usuário direta, permitindo que você foque no que realmente importa: concluir seus objetivos.
+# Task Manager | Gerenciador de Tarefas
 
-✨ Funcionalidades
-O Gerenciador de Tarefas foi desenhado para ser intuitivo. Com ele, você pode:
-➕ Adicionar Tarefas: Crie novos itens rapidamente com um clique.
-✏️ Editar na Hora: Digite o nome da sua tarefa diretamente no campo de texto.
-✅ Concluir com Checkbox: Ao marcar uma tarefa, ela é movida automaticamente para a seção de Concluídas.
-🧹 Limpar Tudo: Reset o progresso para começar um novo dia do zero.
-🚪 Sair com Segurança: Encerramento rápido da aplicação.
+Um gerenciador de tarefas leve e funcional desenvolvido em **Python**, focado em simplicidade e produtividade. Este projeto utiliza a biblioteca **FreeSimpleGUI** para oferecer uma interface intuitiva que facilita a organização da rotina diária.
 
-🛠️ Tecnologias Utilizadas
-Python 3.x
-FreeSimpleGUI: Para a construção da interface gráfica (GUI).
-OS Nativo: Funciona de forma leve em Windows, Linux ou Mac.
+## Funcionalidades
 
-🚀 Como Rodar o Projeto via terminal:
+* **Adicionar Tarefas:** Registro rápido de novos itens.
+* **Edição Dinâmica:** Altere o nome das tarefas diretamente no campo de texto.
+* **Gestão de Status:** Sistema de checkbox que move automaticamente tarefas para a seção de concluídas.
+* **Reset de Fluxo:** Opção para limpar a lista e reiniciar o ciclo de produtividade.
+* **Encerramento Seguro:** Botão de saída integrado para fechar a aplicação corretamente.
+
+## Tecnologias Utilizadas
+
+* **Linguagem:** Python 3.x
+* **Interface Gráfica:** FreeSimpleGUI (Wrapper leve do PySimpleGUI)
+* **Portabilidade:** Compatível com Windows, Linux e macOS.
+
+## Como Rodar o Projeto via terminal:
 python tarefa.py
